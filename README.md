@@ -1,6 +1,6 @@
 # Gitpod-Gui-Template
 
-This is the basic setup template for running guis in gitpod
+This is the basic setup template for running GUIs in gitpod
 
 ## Setup guide - new repo
 - Click the fork button in the top right of the github website
