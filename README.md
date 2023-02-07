@@ -13,7 +13,7 @@ This is the basic setup template for running guis in gitpod
 - Add the files .gitpod.yml and .gitpod.dockerfile to your existing repo
 - Set the contents of these files to be the same as the files in this repo
 - Commit these new files and any other uncommited files and then push
-- **Make sure all files are committed to your remote repository**
+- ***MAKE SURE ALL FILES ARE COMMITTED TO YOUR REMOTE REPOSITORY***
 - Delete your existing gitpod workspace and create a new one
 - Open the workspace in gitpod and wait for the image to build
 - Click the "Open in browser" button on the popup in the bottom right of gitpod
