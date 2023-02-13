@@ -1,9 +1,8 @@
 # Gitpod-Gui-Template
-
-This is the basic setup template for running GUIs in gitpod
+This is the basic setup template for running Java Swing GUIs in gitpod
 
 ## Setup guide - new repo
-- Click the fork button in the top right of the github website
+- Click the 'Use this template' button then click 'Create a New Repository'
 - Enter what you would like to name your new repo in the github prompt box
 - Open the workspace in gitpod and wait for the image to build
 - Click the "Open in browser" button on the popup in the bottom right of gitpod
